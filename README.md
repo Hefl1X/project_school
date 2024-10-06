@@ -1,4 +1,4 @@
-# school facilities management
+# school management
 
 ## Структура:
 1) Главное окно (MainWindow)
